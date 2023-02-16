@@ -102,6 +102,17 @@ h2 {
   background-color: #000;
 }
 
+
+.label{
+  color: green;
+}
+
+.label:hover{
+  font-size:x-large;
+  color: orange;
+
+}
+
 /* BEGIN QUESTION 2 */
 
 
@@ -223,4 +234,5 @@ span {
   background-color: lightblue;
   background-clip: content-box, padding-box;
   /* TODO */
+  padding:60px;
 }
